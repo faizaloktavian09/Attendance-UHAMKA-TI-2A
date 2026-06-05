@@ -211,7 +211,6 @@ npm run setup:testnet
 
 **Ahmad Faizal Oktavian** — 2503015048  
 Teknik Informatika UHAMKA  
-Pembimbing: Dr. Dan Mugisidi, S.T., M.Si.
 
 ---
 
